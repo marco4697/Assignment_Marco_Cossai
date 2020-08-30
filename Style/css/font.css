@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Maven Pro';
+    src: url(../../Font/MavenPro.ttf);
+}
+
+@font-face {
+    font-family: 'Indie Flower';
+    src: url(../../Font/IndieFlower.ttf);
+}
+
+@font-face {
+    font-family: 'Archivo Black';
+    src: url(../../Font/ArchivoBlack.ttf);
+}
+
+@font-face {
+    font-family: 'Abel';
+    src: url(../../Font/Abel.ttf);
+}
